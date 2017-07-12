@@ -1,0 +1,483 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress To Facebook\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-11 09:16+0100\n"
+"PO-Revision-Date: 2012-05-11 09:17+0100\n"
+"Last-Translator: Carlos Matheu Armengol <info@plastikaweb.com>\n"
+"Language-Team: plastikaweb <info@plastikaweb.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/delete_page.php:5
+msgid "Security error. Try again."
+msgstr "Error de seguretat. Torna-ho a provar."
+
+#: ../includes/delete_page.php:9
+msgid "Register deleted."
+msgstr "Registre eliminat."
+
+#: ../includes/edit_page.php:27
+msgid "Security error. Try again. "
+msgstr "Error de seguretat. Torna-ho a provar."
+
+#: ../includes/edit_page.php:33
+msgid "Edit Facebook Connection"
+msgstr "Edita la Connexió de Facebook"
+
+#: ../includes/edit_page.php:55
+msgid "New Facebook Connection"
+msgstr "Nova connexió amb Facebook"
+
+#: ../includes/edit_page.php:73
+#: ../includes/edit_page.php:529
+msgid "Publish"
+msgstr "Publica"
+
+#: ../includes/edit_page.php:74
+#: ../includes/edit_page.php:530
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/edit_page.php:89
+#: ../includes/help_page.php:46
+msgid "General Settings"
+msgstr "Paràmetres generals"
+
+#: ../includes/edit_page.php:90
+msgid "WP Contents"
+msgstr "Continguts de WP"
+
+#: ../includes/edit_page.php:91
+msgid "Optional Contents"
+msgstr "Continguts opcionals"
+
+#: ../includes/edit_page.php:92
+msgid "Templates / Styles"
+msgstr "Plantilles / Estils"
+
+#: ../includes/edit_page.php:98
+#: ../includes/list_page.php:27
+msgid "Title"
+msgstr "Título"
+
+#: ../includes/edit_page.php:106
+msgid "This is the URL you have to point your facebook app to."
+msgstr "Aquesta és la URL a la que té que apuntar la teva aplicació de Facebook"
+
+#: ../includes/edit_page.php:113
+msgid "Facebook App Id"
+msgstr "Id de l'Aplicació de Facebook"
+
+#: ../includes/edit_page.php:120
+msgid "Facebook App Secret"
+msgstr "Secret de l'Aplicació de Facebook"
+
+#: ../includes/edit_page.php:127
+msgid "Hide contents to no Facebook Fanpage fans"
+msgstr "Amaga continguts a qui no sigui Fan de la teva Pàgina de Facebook"
+
+#: ../includes/edit_page.php:137
+msgid "Choose WP contents to show on Facebook"
+msgstr "Tria els continguts de WP per ensenyar a Facebook"
+
+#: ../includes/edit_page.php:153
+#: ../includes/help_page.php:60
+msgid "Automatic contents"
+msgstr "Continguts automàtics"
+
+#: ../includes/edit_page.php:158
+msgid "Choose some criteria to automatically show contents on FB"
+msgstr "Tria algún criteri per ensenyar automàticament continguts en FB"
+
+#: ../includes/edit_page.php:181
+msgid "Taxonomy filter"
+msgstr "Filtre per taxonomia"
+
+#: ../includes/edit_page.php:183
+msgid "Choose some existent terms for filtering by categories and taxonomies. All the contents with any of the selected terms associated, will be shown on FB. Choose a diferent type of content to see the available terms. Pages have no taxonomy associated with them."
+msgstr "Tria alguns termes existents filtrant per categories i taxonomies. Tots els continguts amb algun dels termes seleccionats associats, es mostraran a FB. Tria un tipus de contingut diferent per veure els termes disponibles. \"Pages\" no té cap taxonomia associada."
+
+#: ../includes/edit_page.php:213
+msgid "Number of articles"
+msgstr "Número d'articles"
+
+#: ../includes/edit_page.php:222
+msgid "Order by"
+msgstr "Ordenar per"
+
+#: ../includes/edit_page.php:232
+msgid "Ascendent order"
+msgstr "Ordre ascendent"
+
+#: ../includes/edit_page.php:235
+msgid "Descendent order"
+msgstr "Ordre descendent"
+
+#: ../includes/edit_page.php:258
+msgid "Manual Contents"
+msgstr "Continguts manuals"
+
+#: ../includes/edit_page.php:263
+msgid "Choose exactly what contents and in what order you want to show on FB."
+msgstr "Tria exactament quins continguts i en quin ordre vols que s'ensenyin a FB."
+
+#: ../includes/edit_page.php:269
+msgid "Drag the Available Contents elements to the Selected Contents Area to show them on Facebook. You can also reorder them."
+msgstr "Arrossega els elements de Continguts Disponibles cap a la zona de Continguts Seleccionats per mostrar-los en Facebook. També els pots re-ordenar."
+
+#: ../includes/edit_page.php:294
+msgid "Available Contents"
+msgstr "Continguts disponibles"
+
+#: ../includes/edit_page.php:335
+msgid "No contents available."
+msgstr "Cap contingut és disponible"
+
+#: ../includes/edit_page.php:343
+msgid "Selected Contents"
+msgstr "Continguts seleccionats"
+
+#: ../includes/edit_page.php:388
+msgid "Intro"
+msgstr ""
+
+#: ../includes/edit_page.php:389
+msgid "Optional introduction. Div container id: #introtext."
+msgstr "Introducció opcional. Id del contenidor div: #introtext."
+
+#: ../includes/edit_page.php:418
+msgid "Outro"
+msgstr ""
+
+#: ../includes/edit_page.php:418
+msgid "Optional footer. Div container id: #outrotext."
+msgstr "Peu de pàgina opcional. Id del contenidor div: #outrotext."
+
+#: ../includes/edit_page.php:447
+msgid "No Fans Text"
+msgstr "Text pels qui no són Fans"
+
+#: ../includes/edit_page.php:448
+msgid "Contents to show to non fans on Facebook. Div container id: #nofans."
+msgstr "Continguts per ensenyar als qui no són fans en Facebook. Id del contenidor div: #nofans."
+
+#: ../includes/edit_page.php:480
+#: ../includes/help_page.php:89
+msgid "Templates"
+msgstr "Plantilles"
+
+#: ../includes/edit_page.php:481
+msgid "Choose a template in order to show your contents on FB."
+msgstr "Tria una plantilla per ensenyar els continguts a FB."
+
+#: ../includes/edit_page.php:504
+#: ../includes/help_page.php:96
+msgid "Show Featured Image"
+msgstr "Mostra la imatge destacada"
+
+#: ../includes/edit_page.php:505
+#: ../includes/help_page.php:98
+msgid "If the post has a featured image, you can choose to show it and its size, but remember, the width of the image is limited by CSS because the maximum total width of a facebook page content is 760px"
+msgstr "Si l'article té una imatge destacada, pots escollir mostrar-la i la seva mida, però recorda que l'amplada de la imatge està limitada per CSS ja que l'amplada total màxima de la pàgina de facebook és de 760px"
+
+#: ../includes/edit_page.php:518
+msgid "CSS Styles"
+msgstr "Estils CSS"
+
+#: ../includes/edit_page.php:519
+msgid "Add, overwrite css rules for the chosen template with your own."
+msgstr "Afegeix, sobrescriu regles css per la plantilla seleccionada amb les teves pròpies regles"
+
+#: ../includes/help_page.php:3
+msgid "WpToFacebook - How to create a connection"
+msgstr "WpToFacebook - Com crear una nova connexió"
+
+#: ../includes/help_page.php:6
+msgid "Create a facebook app"
+msgstr "Crear una nova app de facebook"
+
+#: ../includes/help_page.php:9
+msgid "Log into Facebook and go to"
+msgstr "Valida't en Facebook i ves a"
+
+#: ../includes/help_page.php:9
+msgid "If it's the first time, you have to give permission the Facebook Developer App."
+msgstr "Si és el primer cop, has de donar permís al App de Desenvolupador de Facebook"
+
+#: ../includes/help_page.php:13
+msgid "Click on \"+ Create New App\""
+msgstr "Fes click a \"Crear nova App\""
+
+#: ../includes/help_page.php:18
+msgid "Give a name for the app and click \"Continue\""
+msgstr "Dona un nom a l'app i fes click a \"Continuar\""
+
+#: ../includes/help_page.php:20
+msgid "Maybe Facebook will ask you for some verification and security checking"
+msgstr "Potser Facebook et demanarà algun tipus de verificació de seguretat"
+
+#: ../includes/help_page.php:26
+msgid "You will go to the main app page and see an App ID and an App Secret codes. They are important to make the connection within wptofacebook and your facebook app, so copy them or, without closing this page, open another from your woprdress administration"
+msgstr "Aniràs a parar a la página principal de l'app i veuràs un App ID i un ID Secret. Són importants per fer la connexió entre wptofacebook i el teu app de facebook, així que copia'ls o sense tancar aquesta pàgina, obre una altra amb l'administració del vostre wordpress"
+
+#: ../includes/help_page.php:33
+msgid "Create a new WpToFacebook connection"
+msgstr "Crea una nova connexió de WpToFacebook"
+
+#: ../includes/help_page.php:36
+msgid "Log into your worpdress admin. If WpToFacebook is not activated, please go to your Plugins menu -> Installed Plugins, and click on \"Activate\""
+msgstr "Valida't a l'administració del teu wordpress. Si WpToFacebook no està encara activat, si us plau, ves al menú d'Extensions->Extensions instal·lades, i fes click a \"Activar\""
+
+#: ../includes/help_page.php:41
+msgid "WpToFacebook will be shown on the Wordpress menu. Go to WpToFacebook -> New Connection"
+msgstr "WpToFacebook es mostrarà al menú de Wordpress. Ves a WpToFacebook -> Nova connexió"
+
+#: ../includes/help_page.php:48
+msgid "Write a title, and put the facebook App Id and App Secret you created on step 1.4"
+msgstr "Escriu un títol, i posa el App ID i el App Secret que s'han generat al pas 1.4"
+
+#: ../includes/help_page.php:50
+msgid "You can have your contents visible just for your fans on your facebook page"
+msgstr "Pots tenir els teus continguts visibles només pels fans de la teva pàgina de facebook"
+
+#: ../includes/help_page.php:56
+msgid "Choose contents to show on Facebook"
+msgstr "Tria els continguts per mostrar a Facebook"
+
+#: ../includes/help_page.php:58
+msgid "You can choose automatic or manual contents"
+msgstr "Pots triar continguts de forma automàtica o manual"
+
+#: ../includes/help_page.php:62
+msgid "Choose the type of content, the taxonomy (if needed), the number of articles, the order by and the order"
+msgstr "Tria el tipus de contingut, la taxonomia (en cas que sigui necessari), el número d'articles, l'ordre i el criteri d'ordenació"
+
+#: ../includes/help_page.php:67
+msgid "Manual contents"
+msgstr "Continguts manuals"
+
+#: ../includes/help_page.php:69
+msgid "Choose the type of content, and drag individual posts from available to selected contents area"
+msgstr "Escull el tipus de contingut, i arrossega articles individuals de l'àrea de disponible a la de seleccionat"
+
+#: ../includes/help_page.php:71
+msgid "You can also reorder them by drag&drop"
+msgstr "També els pots reordenar arrastrant-los"
+
+#: ../includes/help_page.php:77
+msgid "Header, foooter and content for no fans"
+msgstr "Encapçalament, peu de pàgina i contingut per aquells que no són fans"
+
+#: ../includes/help_page.php:80
+msgid "You can add contents for a header (intro), a footer (outro) and just visible for those who are not fans of your facebook page"
+msgstr "Pots afegir continguts per un encapçalament (intro), un peu de pàgina (outro) i altres només visibles pels qui no són fans de la vostra pàgina de facebook"
+
+#: ../includes/help_page.php:86
+msgid "Templates and Styles"
+msgstr "Plantilles y Estils"
+
+#: ../includes/help_page.php:91
+msgid "Choose one template from the list"
+msgstr "Tria una plantilla de la llista"
+
+#: ../includes/help_page.php:103
+msgid "CSS Rules"
+msgstr "Regles CSS"
+
+#: ../includes/help_page.php:105
+msgid "Add, overwrite css rules for the chosen template with your own"
+msgstr "Afegeix, sobrescriu regles css per la plantilla seleccionada"
+
+#: ../includes/help_page.php:111
+msgid "Add facebook app to your page"
+msgstr "Afegir l'app de facebook a la teva pàgina"
+
+#: ../includes/help_page.php:114
+msgid "Save your wpToFacebook connection"
+msgstr "Guarda la teva connexió de wpToFacebook"
+
+#: ../includes/help_page.php:116
+msgid "To save the settings for your connection, simply click \"Publish\""
+msgstr "Per guardar la configuració de la teva connexió, només has de fer click a \"Publicar\""
+
+#: ../includes/help_page.php:118
+msgid "Under the Title field, you will see an URL. Please copy it"
+msgstr "Sota el camp de Títol, veuràs una URL. Si us plau copia'l"
+
+#: ../includes/help_page.php:123
+msgid "Go to your facebook developer page for the app you've created on step 1"
+msgstr "Ves a la teva pàgina de desenvolupador per l'app creada en el pas 1"
+
+#: ../includes/help_page.php:125
+msgid "Under Settings->Basic page, select \"Page Tab\". Enter a Name for your Tab (Page Tab Name:), and the URL from the previous step under \"Page Tab URL\""
+msgstr "Sota Configuració->Basic, seleccionar \"Page Tab\". Escriu un Nom per la teva Tab(Page Tab Name:) i la URL del pas anterior al camp \"Page Tab URL\""
+
+#: ../includes/help_page.php:127
+msgid "You can also upload an image for your Tab under \"Page Tab Image:\""
+msgstr "També pots pujar una imatge per la teva Tab des de \"Page Tab Image:\""
+
+#: ../includes/help_page.php:129
+msgid "Choose the page tab width also, 520px or 810px"
+msgstr "Tria l'amplada de la tab de la pàgina, 520px o 810px"
+
+#: ../includes/help_page.php:131
+msgid "If you have your wordpress hosted on a Server with HTTPS enabled, please enter the secure URL on Secure Page Tab URL"
+msgstr "Si tens el teu wordpress allotjat en un Servidor amb HTTPS habilitat, si us plau escriu l'URL segura en \"Secure Page Tab URL\""
+
+#: ../includes/help_page.php:133
+msgid "Click on Save Changes"
+msgstr "Fes click en Guardar Canvis"
+
+#: ../includes/help_page.php:137
+msgid "*Important note: If you have not a Server with SSL protocol, you can use for free "
+msgstr "*Aviís important: si no tens un Servidor amb el protocol SSL activat, pots utilitzar de franc"
+
+#: ../includes/help_page.php:138
+msgid "Follow the indications you will find on the web"
+msgstr "Segueix les indicacions que trobaràs al web"
+
+#: ../includes/help_page.php:141
+msgid "Add the app to a tab on your Facebook Page"
+msgstr "Afegeix la pestanya de l'app a la teva Pàgina de Facebook"
+
+#: ../includes/help_page.php:143
+msgid "Go to the URL"
+msgstr "Ves a la URL"
+
+#: ../includes/help_page.php:145
+msgid "YOUR_APP_ID and YOUR_URL can be found in your app settings. This URL brings up the Add to Page Dialog where you can choose the page/s where to add your app"
+msgstr "YOUR_APP_ID i YOUR_URL els pots trobar en la configuració de la teva app. Aquesta URL mostra la Pàgina de Diàleg on pots escollir la pàgina/es a les que afegir la teva app"
+
+#: ../includes/help_page.php:149
+msgid "More info on page tabs "
+msgstr "Més informació sobre les pestanyes de pàgina"
+
+#: ../includes/help_page.php:152
+msgid "Visit your facebook page"
+msgstr "Visita la teva pàgina de facebook"
+
+#: ../includes/help_page.php:155
+msgid "Go to your facebook page and search for the new tab"
+msgstr "Ves a la teva pàgina de facebook i busca la nova pestanya"
+
+#: ../includes/list_page.php:7
+msgid "New Facebook App Connection"
+msgstr "Nova Connexió amb l'Aplicació de Facebook"
+
+#: ../includes/list_page.php:23
+msgid "List of Facebook Pages Connections"
+msgstr "Llistat de Connexions a Pàgines de Facebook"
+
+#: ../includes/list_page.php:28
+msgid "Canvas Page"
+msgstr "Pàgina Canvas"
+
+#: ../includes/list_page.php:29
+msgid "Template"
+msgstr "Plantilla"
+
+#: ../includes/list_page.php:30
+msgid "Author"
+msgstr "Autor"
+
+#: ../includes/list_page.php:31
+msgid "Date"
+msgstr "Data"
+
+#: ../includes/list_page.php:48
+msgid "Y/m/d"
+msgstr ""
+
+#: ../includes/list_page.php:60
+#, php-format
+msgid "Edit '%s'"
+msgstr "Editar '%s'"
+
+#: ../includes/list_page.php:62
+msgid "Edit this item"
+msgstr "Edita aquest item"
+
+#: ../includes/list_page.php:63
+msgid "Edit"
+msgstr "Editar"
+
+#: ../includes/list_page.php:64
+msgid "Delete this item permanently"
+msgstr ""
+
+#: ../includes/list_page.php:65
+msgid "Delete Permanently"
+msgstr ""
+
+#: ../includes/list_page.php:82
+msgid "No records found"
+msgstr "No s'han trobat registres"
+
+#: ../includes/tpl_redirect.php:20
+msgid "No data found"
+msgstr "No hi ha registres"
+
+#: ../includes/Wptofb.php:200
+msgid "New Connection"
+msgstr "Nova Connexió"
+
+#: ../includes/Wptofb.php:211
+msgid "Help"
+msgstr "Ajuda"
+
+#: ../includes/Wptofb.php:453
+msgid "all"
+msgstr "tot"
+
+#: ../includes/Wptofb.php:458
+msgid "date"
+msgstr "data"
+
+#: ../includes/Wptofb.php:458
+msgid "title"
+msgstr "títol"
+
+#: ../includes/Wptofb.php:458
+msgid "random"
+msgstr "aleatori"
+
+#: ../includes/Wptofb.php:463
+msgid "no image"
+msgstr "sense imatge"
+
+#: ../includes/Wptofb.php:463
+msgid "thumbnail"
+msgstr "miniatura"
+
+#: ../includes/Wptofb.php:463
+msgid "medium"
+msgstr "mitjana"
+
+#: ../includes/Wptofb.php:463
+msgid "large"
+msgstr "gran"
+
+#: ../tests/PluginTest.php:39
+#, php-format
+msgid "The %s plugin requires PHP %s or newer. Contact your system administrator about updating your version of PHP."
+msgstr "El plugin %s requereix PHP %s o superior. Contacta amb l'administrador del teu sistema perquè actualitzi la versió de PHP."
+
+#: ../tests/PluginTest.php:54
+#, php-format
+msgid "The %s plugin requires WordPress %s or newer. <a href='http://codex.wordpress.org/Upgrading_WordPress'>Please update!</a>"
+msgstr "El plugin %s requereix WordPress %s o superior. <a href='http://codex.wordpress.org/Upgrading_WordPress'>¡Si us plau, actualitza'l!</a>"
+
+#: ../tests/PluginTest.php:63
+#, php-format
+msgid "The %s plugin requires MySQL %s or newer. Contact your system administrator about upgrading"
+msgstr "El plugin %s requereix MySQL %s o superior. Contacta amb l'administrador del teu sistema per actualitzar-lo."
+
+#~ msgid "Read more"
+#~ msgstr "Llegir més"
